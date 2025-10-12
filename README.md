@@ -1,4 +1,4 @@
-# Assignment 1 - Linear Regression
+# Assignment 2
 
 Dataset: [Mushroom Dataset (UCI)](https://archive.ics.uci.edu/dataset/73/mushroom)
 Public Link to File: [https://raw.githubusercontent.com/LamisaZara/CS4372_Assignments/main/agaricus-lepiota.data]
